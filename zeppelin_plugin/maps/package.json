@@ -1,0 +1,12 @@
+{
+  "name": "zeppelin_map_plug-in",
+  "description" : "Map plug-in for Zeppelin",
+  "version": "1.0.1",
+  "main": "maps",
+  "author": "Jonathan Anderson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "zeppelin-tabledata": "*",
+    "zeppelin-vis": "*"
+  }
+}

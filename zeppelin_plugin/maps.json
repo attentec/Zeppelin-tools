@@ -1,0 +1,8 @@
+{
+  "type" : "VISUALIZATION",
+  "name" : "zeppelin_map",
+  "description" : "Map plug-in",
+  "license" : "Apache-2.0",
+  "artifact" : "/home/jonathan/Raid5/Studier/LIU/MasterThesis/TehcnicalEvaluation/zeppelin-plugin/maps",
+  "icon" : "<i class='fa fa-map-marker'></i>"
+}
